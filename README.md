@@ -1,0 +1,1 @@
+API criada com o uso de GraphQL e ReactJS.
